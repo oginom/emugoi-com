@@ -8,16 +8,22 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          荻野 将拓 / Masahiro Ogino
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>
+          email: oginomaa@gmail.com
+        </p>
+        <p>
+          github:&nbsp; 
+          <a
+            className="App-link"
+            href="https://github.com/oginom"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            https://github.com/oginom
+          </a>
+        </p>
       </header>
     </div>
   );
