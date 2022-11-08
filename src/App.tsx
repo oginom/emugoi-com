@@ -14,6 +14,17 @@ function App() {
           email: oginomaa@gmail.com
         </p>
         <p>
+          twitter:&nbsp; 
+          <a
+            className="App-link"
+            href="https://twitter.com/emuogi"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            @emuogi
+          </a>
+        </p>
+        <p>
           github:&nbsp; 
           <a
             className="App-link"
